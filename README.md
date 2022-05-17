@@ -1,6 +1,8 @@
 # FutbolCrud
 Aquí tengo el login: ![image](https://user-images.githubusercontent.com/91873161/168642249-ebc08431-0e43-440d-997b-fc99bfc309b1.png)
 
+En la base de datos tengo dos usuarios: Cristiano (1234), Daniel (1234)
+
 
 La página de bienvenida cuenta con dos botones que te dirigen hacia las distintas tablas, asi como un botón de logout: ![image](https://user-images.githubusercontent.com/91873161/168642377-b7d60ee1-7e69-492f-aaa7-e1ae77647068.png)
 
