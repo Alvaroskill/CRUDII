@@ -33,7 +33,7 @@
       
       if (numeroDeEquipos.getRow() != 0) {
         out.println("Lo siento, no se ha podido dar de alta, ya existe un equipo con el número "
-                    + request.getParameter("codEquipo") + ".");
+                    + request.getParameter("codEquipo") + " .");
       } else {
         String insercion = "INSERT INTO equipos VALUES (" + Integer.valueOf(request.getParameter("codEquipo"))
                            + ", '" + request.getParameter("nombre")
