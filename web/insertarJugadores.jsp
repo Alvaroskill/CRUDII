@@ -32,7 +32,7 @@
       
       if (numeroDeEquipos.getRow() != 0) {
         out.println("Lo siento, no se ha podido dar de alta, ya existe un jugador con el número "
-                    + Integer.valueOf(request.getParameter("numeroID") + "."));
+                    + Integer.valueOf(request.getParameter("numeroID") + " ."));
       } else {
         String insercion = "INSERT INTO jugadores VALUES (" + Integer.valueOf(request.getParameter("numeroID"))
                            + ", '" + request.getParameter("nombre")
