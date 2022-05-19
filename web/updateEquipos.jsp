@@ -36,7 +36,7 @@
     %>
     <br>
     <form name="equipo" action="" method="post">
-        <a href="principal.jsp" class="btn btn-sm btn-dark">Volver</a>
+        <a href="NumeroEquipos.jsp" class="btn btn-sm btn-dark">Volver</a>
     </form>
   </body>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
